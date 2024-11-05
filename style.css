@@ -1,0 +1,22 @@
+table{
+    border: 1px solid black;
+    width: 70%;
+    height: 60px;
+    margin: 0 auto;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.sil{
+    background-color: red;
+    color: white;
+}
+.saxla{
+    color: white;
+    background-color: rgb(49, 197, 41);
+}
